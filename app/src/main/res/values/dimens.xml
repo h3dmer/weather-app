@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_xxxxsmall">1dp</dimen>
+    <dimen name="margin_xxxsmall">2dp</dimen>
+    <dimen name="margin_xxsmall">4dp</dimen>
+    <dimen name="margin_xsmall">8dp</dimen>
+    <dimen name="margin_small">12dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_large">20dp</dimen>
+    <dimen name="margin_xlarge">24dp</dimen>
+    <dimen name="margin_xxlarge">28dp</dimen>
+    <dimen name="margin_xxxlarge">32dp</dimen>
+    <dimen name="margin_xxxxlarge">42dp</dimen>
+    <dimen name="margin_xxxxxlarge">46dp</dimen>
+    <dimen name="margin_xxxxxxlarge">56dp</dimen>
+    <dimen name="margin_xxxxxxxlarge">60dp</dimen>
+
+    <dimen name="text_size_xxxxsmall">6sp</dimen>
+    <dimen name="text_size_xxxsmall">8sp</dimen>
+    <dimen name="text_size_xxsmall">10sp</dimen>
+    <dimen name="text_size_xsmall">12sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_medium">16sp</dimen>
+    <dimen name="text_size_large">18sp</dimen>
+    <dimen name="text_size_xlarge">20sp</dimen>
+    <dimen name="text_size_xxlarge">24sp</dimen>
+    <dimen name="text_size_xxxlarge">28sp</dimen>
+    <dimen name="text_size_xxxxlarge">48sp</dimen>
+
+    <dimen name="image_size">100dp</dimen>
+
+
+
+</resources>

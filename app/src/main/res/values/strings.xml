@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">weather-app</string>
+    
+    <string name="search_city_empty_data">Wprowadź nazwę lokalizacji.</string>
+    <string name="search_city_search_hint">Wyszukaj</string>
+    <string name="search_city_localized_description_name">%s, %s</string>
+
+    <string name="weather_details_day">Dzień</string>
+    <string name="weather_details_night">Noc</string>
+    <string name="weather_details_sun_rise">Wschód słońca: %s</string>
+    <string name="weather_details_sun_set">Zachód słońca: %s</string>
+    <string name="weather_details_moon_rise">Wschód księżyca: %s</string>
+    <string name="weather_details_moon_set">Zachód księżyca: %s</string>
+</resources>
